@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy.stats
+sklearn.metrics
+          |
+          |->confusion_matrix, accuracy_score, classification_report
+
+sklearn.model_selection
+                   |
+                   |->DecisionTreeClassifier, plot_tree
+matplotlib.pyplot
